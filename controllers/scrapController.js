@@ -4,14 +4,15 @@ var request = require('request');
 var cheerio = require('cheerio');
 var fs = require('fs');
 var summary = require('../models/summary');
+var _ = require('lodash');
 
 var output;
 
-function writeToFile(json,year) {
+function writeToFile(json, year) {
 
-    fs.writeFile(json[0].team1+year+'.json', JSON.stringify(json, null, 4).replace(/]|[[]/g, ''), function (err) {
-        if(!err)
-            console.log('File successfully written! - Check your project directory for the output.json file');
+    fs.writeFile('output.json', JSON.stringify(json, null, 4).replace(/]|[[]/g, ''), function (err) {
+        if (!err)
+            console.log('File successfully written! - Check your project directory for the output.json file: ' + year);
         else
             console.log('Error writing to file');
     })
@@ -31,7 +32,7 @@ function ScrapSummaryBasedOnTeamAndYear(teamNo, year, type, cb) {
 
             $('table.engineTable').first().filter(function () {
                 var rows = $(this).find("tr");
-                if(rows.length>1) {
+                if (rows.length > 1) {
                     rows.not("thead tr").each(function () {
                         var match = new summary();
                         var row = $(this);
@@ -44,44 +45,41 @@ function ScrapSummaryBasedOnTeamAndYear(teamNo, year, type, cb) {
 
                         json.push(match);
                     });
-
                 }
-
             })
-
         }
-        //writeToFile(json);
         //send data in callback
         cb(year, null, json);
     });
 }
 
-//var Author = require('../models/author');
+
 exports.scrapper = function (req, res) {
 
-    var pageNum = 1100000;
+    var startYear = 1950;
+    var endYear = 2018
 
-    // var matches = []; Find a way for this
+    var allMatchesSummaryForTeam = [];
+    var finished = _.after(endYear-startYear, writeToFile);
 
-
-   for(var i =1950;i<2018;i++) {
-       ScrapSummaryBasedOnTeamAndYear(7, i, 1, function (i, err, data) {
-
-           // console.log(err || data);
-           if (data.length > 0) {
-               //writeToFile(data, i);
-               console.log("year:"+i);
-               console.log(data);
-           }
-           else
-               console.log("Nothing to show for year: " +i);
+    for (var i = 1950; i < 2018; i++) {
+        ScrapSummaryBasedOnTeamAndYear(7, i, 1, callBackMethod);
+    }
 
 
-       });
 
-   }
+    function callBackMethod(year, err, data) {
 
+        if (data.length > 0) {
+            console.log("year:" + year);
+            console.log(data);
+            allMatchesSummaryForTeam.push(data);
+        }
+        else
+            console.log("Nothing to show for year: " + i);
 
+        finished(allMatchesSummaryForTeam, i);
+    }
 
     res.send('Output stored in test file!');
 

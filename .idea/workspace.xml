@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="12f5687e-e03e-446b-a012-99c5b25ef39d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controllers/scrapController.js" afterPath="$PROJECT_DIR$/controllers/scrapController.js" />
-    </list>
+    <list default="true" id="12f5687e-e03e-446b-a012-99c5b25ef39d" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -300,12 +298,12 @@
       <option name="presentableId" value="Default" />
       <updated>1505603904223</updated>
       <workItem from="1505603918802" duration="20168000" />
-      <workItem from="1506025395889" duration="3177000" />
+      <workItem from="1506025395889" duration="3201000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23345000" />
+    <option name="totallyTimeSpent" value="23369000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">

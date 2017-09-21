@@ -22,8 +22,7 @@ function writeToFile(json, year) {
 function ScrapSummaryBasedOnTeamAndYear(teamNo, year, type, cb) {
 
     var url = 'http://stats.espncricinfo.com/ci/engine/records/team/match_results.html?class=2;id=' + year + ';team=' + teamNo + ';type=year';
-    var output = "";
-
+ 
     request(url, function (error, response, html) {
         if (!error) {
             var $ = cheerio.load(html);

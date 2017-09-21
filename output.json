@@ -1,0 +1,1034 @@
+
+    {
+        "team1": "New Zealand",
+        "team2": "Pakistan",
+        "winner": "New Zealand",
+        "margin": "22 runs",
+        "date": "Feb 11, 1973",
+        "number": "ODI # 5"
+    }
+
+    {
+        "team1": "Australia",
+        "team2": "Pakistan",
+        "winner": "Australia",
+        "margin": "73 runs",
+        "date": "Jun 7, 1975",
+        "number": "ODI # 21"
+    },
+    {
+        "team1": "Pakistan",
+        "team2": "West Indies",
+        "winner": "West Indies",
+        "margin": "1 wicket",
+        "date": "Jun 11, 1975",
+        "number": "ODI # 26"
+    },
+    {
+        "team1": "Pakistan",
+        "team2": "Sri Lanka",
+        "winner": "Pakistan",
+        "margin": "192 runs",
+        "date": "Jun 14, 1975",
+        "number": "ODI # 30"
+    }
+
+    {
+        "team1": "Australia",
+        "team2": "Pakistan",
+        "winner": "Pakistan",
+        "margin": "25 runs",
+        "date": "Jan 9, 1982",
+        "number": "ODI # 132"
+    },
+    {
+        "team1": "Pakistan",
+        "team2": "West Indies",
+        "winner": "West Indies",
+        "margin": "7 wickets",
+        "date": "Jan 12, 1982",
+        "number": "ODI # 134"
+    },
+    {
+        "team1": "Australia",
+        "team2": "Pakistan",
+        "winner": "Australia",
+        "margin": "76 runs",
+        "date": "Jan 14, 1982",
+        "number": "ODI # 135"
+    },
+    {
+        "team1": "Pakistan",
+        "team2": "West Indies",
+        "winner": "West Indies",
+        "margin": "1 wicket",
+        "date": "Jan 16, 1982",
+        "number": "ODI # 136"
+    },
+    {
+        "team1": "Pakistan",
+        "team2": "Sri Lanka",
+        "winner": "Pakistan",
+        "margin": "8 wickets",
+        "date": "Mar 12, 1982",
+        "number": "ODI # 149"
+    },
+    {
+        "team1": "Pakistan",
+        "team2": "Sri Lanka",
+        "winner": "Sri Lanka",
+        "margin": "30 runs",
+        "date": "Mar 29, 1982",
+        "number": "ODI # 150"
+    },
+    {
+        "team1": "Pakistan",
+        "team2": "Sri Lanka",
+        "winner": "Pakistan",
+        "margin": "5 wickets",
+        "date": "Mar 31, 1982",
+        "number": "ODI # 151"
+    },
+    {
+        "team1": "England",
+        "team2": "Pakistan",
+        "winner": "England",
+        "margin": "7 wickets",
+        "date": "Jul 17, 1982",
+        "number": "ODI # 154"
+    },
+    {
+        "team1": "England",
+        "team2": "Pakistan",
+        "winner": "England",
+        "margin": "73 runs",
+        "date": "Jul 19, 1982",
+        "number": "ODI # 155"
+    },
+    {
+        "team1": "Pakistan",
+        "team2": "Australia",
+        "winner": "Pakistan",
+        "margin": "59 runs",
+        "date": "Sep 20, 1982",
+        "number": "ODI # 158"
+    },
+    {
+        "team1": "Pakistan",
+        "team2": "Australia",
+        "winner": "Pakistan",
+        "margin": "28 runs",
+        "date": "Oct 8, 1982",
+        "number": "ODI # 160"
+    },
+    {
+        "team1": "Pakistan",
+        "team2": "Australia",
+        "winner": "no result",
+        "margin": "",
+        "date": "Oct 22, 1982",
+        "number": "ODI # 161"
+    },
+    {
+        "team1": "Pakistan",
+        "team2": "India",
+        "winner": "Pakistan",
+        "margin": "14 runs",
+        "date": "Dec 3, 1982",
+        "number": "ODI # 162"
+    },
+    {
+        "team1": "Pakistan",
+        "team2": "India",
+        "winner": "Pakistan",
+        "margin": "37 runs",
+        "date": "Dec 17, 1982",
+        "number": "ODI # 163"
+    },
+    {
+        "team1": "Pakistan",
+        "team2": "India",
+        "winner": "India",
+        "margin": "18 runs",
+        "date": "Dec 31, 1982",
+        "number": "ODI # 164"
+    }
+
+    {
+        "team1": "England",
+        "team2": "Pakistan",
+        "winner": "Pakistan",
+        "margin": "7 wickets",
+        "date": "Aug 31, 1974",
+        "number": "ODI # 14"
+    },
+    {
+        "team1": "England",
+        "team2": "Pakistan",
+        "winner": "Pakistan",
+        "margin": "8 wickets",
+        "date": "Sep 3, 1974",
+        "number": "ODI # 15"
+    }
+
+    {
+        "team1": "England",
+        "team2": "Pakistan",
+        "winner": "Pakistan",
+        "margin": "7 wickets",
+        "date": "Aug 31, 1974",
+        "number": "ODI # 14"
+    },
+    {
+        "team1": "England",
+        "team2": "Pakistan",
+        "winner": "Pakistan",
+        "margin": "8 wickets",
+        "date": "Sep 3, 1974",
+        "number": "ODI # 15"
+    }
+
+    {
+        "team1": "Pakistan",
+        "team2": "New Zealand",
+        "winner": "New Zealand",
+        "margin": "1 run",
+        "date": "Oct 16, 1976",
+        "number": "ODI # 40"
+    }
+
+    {
+        "team1": "Pakistan",
+        "team2": "India",
+        "winner": "Pakistan",
+        "margin": "8 wickets",
+        "date": "Jan 21, 1983",
+        "number": "ODI # 172"
+    },
+    {
+        "team1": "Pakistan",
+        "team2": "Sri Lanka",
+        "winner": "Pakistan",
+        "margin": "50 runs",
+        "date": "Jun 9, 1983",
+        "number": "ODI # 198"
+    },
+    {
+        "team1": "New Zealand",
+        "team2": "Pakistan",
+        "winner": "New Zealand",
+        "margin": "52 runs",
+        "date": "Jun 11-12, 1983",
+        "number": "ODI # 202"
+    },
+    {
+        "team1": "England",
+        "team2": "Pakistan",
+        "winner": "England",
+        "margin": "8 wickets",
+        "date": "Jun 13, 1983",
+        "number": "ODI # 205"
+    },
+    {
+        "team1": "Pakistan",
+        "team2": "Sri Lanka",
+        "winner": "Pakistan",
+        "margin": "11 runs",
+        "date": "Jun 16, 1983",
+        "number": "ODI # 211"
+    },
+    {
+        "team1": "England",
+        "team2": "Pakistan",
+        "winner": "England",
+        "margin": "7 wickets",
+        "date": "Jun 18, 1983",
+        "number": "ODI # 213"
+    },
+    {
+        "team1": "New Zealand",
+        "team2": "Pakistan",
+        "winner": "Pakistan",
+        "margin": "11 runs",
+        "date": "Jun 20, 1983",
+        "number": "ODI # 218"
+    },
+    {
+        "team1": "Pakistan",
+        "team2": "West Indies",
+        "winner": "West Indies",
+        "margin": "8 wickets",
+        "date": "Jun 22, 1983",
+        "number": "ODI # 222"
+    },
+    {
+        "team1": "India",
+        "team2": "Pakistan",
+        "winner": "India",
+        "margin": "4 wickets",
+        "date": "Sep 10, 1983",
+        "number": "ODI # 224"
+    },
+    {
+        "team1": "India",
+        "team2": "Pakistan",
+        "winner": "India",
+        "margin": "4 wickets",
+        "date": "Oct 2, 1983",
+        "number": "ODI # 225"
+    }
+
+    {
+        "team1": "Canada",
+        "team2": "Pakistan",
+        "winner": "Pakistan",
+        "margin": "8 wickets",
+        "date": "Jun 9, 1979",
+        "number": "ODI # 64"
+    },
+    {
+        "team1": "Australia",
+        "team2": "Pakistan",
+        "winner": "Pakistan",
+        "margin": "89 runs",
+        "date": "Jun 13-14, 1979",
+        "number": "ODI # 66"
+    },
+    {
+        "team1": "England",
+        "team2": "Pakistan",
+        "winner": "England",
+        "margin": "14 runs",
+        "date": "Jun 16, 1979",
+        "number": "ODI # 71"
+    },
+    {
+        "team1": "Pakistan",
+        "team2": "West Indies",
+        "winner": "West Indies",
+        "margin": "43 runs",
+        "date": "Jun 20, 1979",
+        "number": "ODI # 73"
+    }
+
+    {
+        "team1": "England",
+        "team2": "Pakistan",
+        "winner": "Pakistan",
+        "margin": "7 wickets",
+        "date": "Aug 31, 1974",
+        "number": "ODI # 14"
+    },
+    {
+        "team1": "England",
+        "team2": "Pakistan",
+        "winner": "Pakistan",
+        "margin": "8 wickets",
+        "date": "Sep 3, 1974",
+        "number": "ODI # 15"
+    }
+
+    {
+        "team1": "Pakistan",
+        "team2": "England",
+        "winner": "Pakistan",
+        "margin": "36 runs",
+        "date": "Jan 13, 1978",
+        "number": "ODI # 47"
+    },
+    {
+        "team1": "England",
+        "team2": "Pakistan",
+        "winner": "England",
+        "margin": "132 runs",
+        "date": "May 24-25, 1978",
+        "number": "ODI # 50"
+    },
+    {
+        "team1": "England",
+        "team2": "Pakistan",
+        "winner": "England",
+        "margin": "94 runs",
+        "date": "May 26, 1978",
+        "number": "ODI # 51"
+    },
+    {
+        "team1": "Pakistan",
+        "team2": "India",
+        "winner": "India",
+        "margin": "4 runs",
+        "date": "Oct 1, 1978",
+        "number": "ODI # 54"
+    },
+    {
+        "team1": "Pakistan",
+        "team2": "India",
+        "winner": "Pakistan",
+        "margin": "8 wickets",
+        "date": "Oct 13, 1978",
+        "number": "ODI # 55"
+    },
+    {
+        "team1": "Pakistan",
+        "team2": "India",
+        "winner": "Pakistan",
+        "margin": "",
+        "date": "Nov 3, 1978",
+        "number": "ODI # 56"
+    }
+
+    {
+        "team1": "Australia",
+        "team2": "Pakistan",
+        "winner": "Australia",
+        "margin": "73 runs",
+        "date": "Jun 7, 1975",
+        "number": "ODI # 21"
+    },
+    {
+        "team1": "Pakistan",
+        "team2": "West Indies",
+        "winner": "West Indies",
+        "margin": "1 wicket",
+        "date": "Jun 11, 1975",
+        "number": "ODI # 26"
+    },
+    {
+        "team1": "Pakistan",
+        "team2": "Sri Lanka",
+        "winner": "Pakistan",
+        "margin": "192 runs",
+        "date": "Jun 14, 1975",
+        "number": "ODI # 30"
+    }
+
+    {
+        "team1": "Pakistan",
+        "team2": "England",
+        "winner": "Pakistan",
+        "margin": "36 runs",
+        "date": "Jan 13, 1978",
+        "number": "ODI # 47"
+    },
+    {
+        "team1": "England",
+        "team2": "Pakistan",
+        "winner": "England",
+        "margin": "132 runs",
+        "date": "May 24-25, 1978",
+        "number": "ODI # 50"
+    },
+    {
+        "team1": "England",
+        "team2": "Pakistan",
+        "winner": "England",
+        "margin": "94 runs",
+        "date": "May 26, 1978",
+        "number": "ODI # 51"
+    },
+    {
+        "team1": "Pakistan",
+        "team2": "India",
+        "winner": "India",
+        "margin": "4 runs",
+        "date": "Oct 1, 1978",
+        "number": "ODI # 54"
+    },
+    {
+        "team1": "Pakistan",
+        "team2": "India",
+        "winner": "Pakistan",
+        "margin": "8 wickets",
+        "date": "Oct 13, 1978",
+        "number": "ODI # 55"
+    },
+    {
+        "team1": "Pakistan",
+        "team2": "India",
+        "winner": "Pakistan",
+        "margin": "",
+        "date": "Nov 3, 1978",
+        "number": "ODI # 56"
+    }
+
+    {
+        "team1": "England",
+        "team2": "Pakistan",
+        "winner": "Pakistan",
+        "margin": "7 wickets",
+        "date": "Aug 31, 1974",
+        "number": "ODI # 14"
+    },
+    {
+        "team1": "England",
+        "team2": "Pakistan",
+        "winner": "Pakistan",
+        "margin": "8 wickets",
+        "date": "Sep 3, 1974",
+        "number": "ODI # 15"
+    }
+
+    {
+        "team1": "Pakistan",
+        "team2": "India",
+        "winner": "Pakistan",
+        "margin": "8 wickets",
+        "date": "Jan 21, 1983",
+        "number": "ODI # 172"
+    },
+    {
+        "team1": "Pakistan",
+        "team2": "Sri Lanka",
+        "winner": "Pakistan",
+        "margin": "50 runs",
+        "date": "Jun 9, 1983",
+        "number": "ODI # 198"
+    },
+    {
+        "team1": "New Zealand",
+        "team2": "Pakistan",
+        "winner": "New Zealand",
+        "margin": "52 runs",
+        "date": "Jun 11-12, 1983",
+        "number": "ODI # 202"
+    },
+    {
+        "team1": "England",
+        "team2": "Pakistan",
+        "winner": "England",
+        "margin": "8 wickets",
+        "date": "Jun 13, 1983",
+        "number": "ODI # 205"
+    },
+    {
+        "team1": "Pakistan",
+        "team2": "Sri Lanka",
+        "winner": "Pakistan",
+        "margin": "11 runs",
+        "date": "Jun 16, 1983",
+        "number": "ODI # 211"
+    },
+    {
+        "team1": "England",
+        "team2": "Pakistan",
+        "winner": "England",
+        "margin": "7 wickets",
+        "date": "Jun 18, 1983",
+        "number": "ODI # 213"
+    },
+    {
+        "team1": "New Zealand",
+        "team2": "Pakistan",
+        "winner": "Pakistan",
+        "margin": "11 runs",
+        "date": "Jun 20, 1983",
+        "number": "ODI # 218"
+    },
+    {
+        "team1": "Pakistan",
+        "team2": "West Indies",
+        "winner": "West Indies",
+        "margin": "8 wickets",
+        "date": "Jun 22, 1983",
+        "number": "ODI # 222"
+    },
+    {
+        "team1": "India",
+        "team2": "Pakistan",
+        "winner": "India",
+        "margin": "4 wickets",
+        "date": "Sep 10, 1983",
+        "number": "ODI # 224"
+    },
+    {
+        "team1": "India",
+        "team2": "Pakistan",
+        "winner": "India",
+        "margin": "4 wickets",
+        "date": "Oct 2, 1983",
+        "number": "ODI # 225"
+    }
+
+    {
+        "team1": "India",
+        "team2": "Pakistan",
+        "winner": "India",
+        "margin": "18 runs",
+        "date": "Jan 11, 1998",
+        "number": "ODI # 1273"
+    },
+    {
+        "team1": "Bangladesh",
+        "team2": "Pakistan",
+        "winner": "Pakistan",
+        "margin": "9 wickets",
+        "date": "Jan 12, 1998",
+        "number": "ODI # 1274"
+    },
+    {
+        "team1": "India",
+        "team2": "Pakistan",
+        "winner": "India",
+        "margin": "8 wickets",
+        "date": "Jan 14, 1998",
+        "number": "ODI # 1276"
+    },
+    {
+        "team1": "India",
+        "team2": "Pakistan",
+        "winner": "Pakistan",
+        "margin": "6 wickets",
+        "date": "Jan 16, 1998",
+        "number": "ODI # 1277"
+    },
+    {
+        "team1": "India",
+        "team2": "Pakistan",
+        "winner": "India",
+        "margin": "3 wickets",
+        "date": "Jan 18, 1998",
+        "number": "ODI # 1279"
+    },
+    {
+        "team1": "Zimbabwe",
+        "team2": "Pakistan",
+        "winner": "Pakistan",
+        "margin": "4 wickets",
+        "date": "Mar 28, 1998",
+        "number": "ODI # 1297"
+    },
+    {
+        "team1": "Zimbabwe",
+        "team2": "Pakistan",
+        "winner": "Pakistan",
+        "margin": "4 wickets",
+        "date": "Mar 29, 1998",
+        "number": "ODI # 1298"
+    },
+    {
+        "team1": "South Africa",
+        "team2": "Pakistan",
+        "winner": "South Africa",
+        "margin": "52 runs",
+        "date": "Apr 3, 1998",
+        "number": "ODI # 1303"
+    },
+    {
+        "team1": "Pakistan",
+        "team2": "Sri Lanka",
+        "winner": "Pakistan",
+        "margin": "4 wickets",
+        "date": "Apr 7, 1998",
+        "number": "ODI # 1309"
+    },
+    {
+        "team1": "Pakistan",
+        "team2": "Sri Lanka",
+        "winner": "Pakistan",
+        "margin": "110 runs",
+        "date": "Apr 9, 1998",
+        "number": "ODI # 1312"
+    },
+    {
+        "team1": "South Africa",
+        "team2": "Pakistan",
+        "winner": "South Africa",
+        "margin": "3 wickets",
+        "date": "Apr 11, 1998",
+        "number": "ODI # 1314"
+    },
+    {
+        "team1": "Pakistan",
+        "team2": "Sri Lanka",
+        "winner": "Sri Lanka",
+        "margin": "115 runs",
+        "date": "Apr 15, 1998",
+        "number": "ODI # 1317"
+    },
+    {
+        "team1": "South Africa",
+        "team2": "Pakistan",
+        "winner": "South Africa",
+        "margin": "7 wickets",
+        "date": "Apr 17, 1998",
+        "number": "ODI # 1318"
+    },
+    {
+        "team1": "South Africa",
+        "team2": "Pakistan",
+        "winner": "South Africa",
+        "margin": "9 wickets",
+        "date": "Apr 23, 1998",
+        "number": "ODI # 1326"
+    },
+    {
+        "team1": "India",
+        "team2": "Pakistan",
+        "winner": "India",
+        "margin": "6 wickets",
+        "date": "Sep 12, 1998",
+        "number": "ODI # 1349"
+    },
+    {
+        "team1": "India",
+        "team2": "Pakistan",
+        "winner": "Pakistan",
+        "margin": "51 runs",
+        "date": "Sep 13, 1998",
+        "number": "ODI # 1350"
+    },
+    {
+        "team1": "India",
+        "team2": "Pakistan",
+        "winner": "Pakistan",
+        "margin": "77 runs",
+        "date": "Sep 16, 1998",
+        "number": "ODI # 1351"
+    },
+    {
+        "team1": "India",
+        "team2": "Pakistan",
+        "winner": "Pakistan",
+        "margin": "134 runs",
+        "date": "Sep 19, 1998",
+        "number": "ODI # 1352"
+    },
+    {
+        "team1": "India",
+        "team2": "Pakistan",
+        "winner": "Pakistan",
+        "margin": "5 wickets",
+        "date": "Sep 20, 1998",
+        "number": "ODI # 1353"
+    },
+    {
+        "team1": "Pakistan",
+        "team2": "West Indies",
+        "winner": "West Indies",
+        "margin": "30 runs",
+        "date": "Oct 29, 1998",
+        "number": "ODI # 1361"
+    },
+    {
+        "team1": "Pakistan",
+        "team2": "Australia",
+        "winner": "Australia",
+        "margin": "86 runs",
+        "date": "Nov 6, 1998",
+        "number": "ODI # 1365"
+    },
+    {
+        "team1": "Pakistan",
+        "team2": "Australia",
+        "winner": "Australia",
+        "margin": "5 wickets",
+        "date": "Nov 8, 1998",
+        "number": "ODI # 1368"
+    },
+    {
+        "team1": "Pakistan",
+        "team2": "Australia",
+        "winner": "Australia",
+        "margin": "6 wickets",
+        "date": "Nov 10, 1998",
+        "number": "ODI # 1371"
+    },
+    {
+        "team1": "Pakistan",
+        "team2": "Zimbabwe",
+        "winner": "Pakistan",
+        "margin": "4 wickets",
+        "date": "Nov 20, 1998",
+        "number": "ODI # 1375"
+    },
+    {
+        "team1": "Pakistan",
+        "team2": "Zimbabwe",
+        "winner": "Zimbabwe",
+        "margin": "6 wickets",
+        "date": "Nov 22, 1998",
+        "number": "ODI # 1376"
+    },
+    {
+        "team1": "Pakistan",
+        "team2": "Zimbabwe",
+        "winner": "Pakistan",
+        "margin": "111 runs",
+        "date": "Nov 24, 1998",
+        "number": "ODI # 1377"
+    }
+
+    {
+        "team1": "New Zealand",
+        "team2": "Pakistan",
+        "winner": "New Zealand",
+        "margin": "7 wickets",
+        "date": "Jan 31, 2015",
+        "number": "ODI # 3596"
+    },
+    {
+        "team1": "New Zealand",
+        "team2": "Pakistan",
+        "winner": "New Zealand",
+        "margin": "119 runs",
+        "date": "Feb 3, 2015",
+        "number": "ODI # 3598"
+    },
+    {
+        "team1": "India",
+        "team2": "Pakistan",
+        "winner": "India",
+        "margin": "76 runs",
+        "date": "Feb 15, 2015",
+        "number": "ODI # 3602"
+    },
+    {
+        "team1": "Pakistan",
+        "team2": "West Indies",
+        "winner": "West Indies",
+        "margin": "150 runs",
+        "date": "Feb 21, 2015",
+        "number": "ODI # 3608"
+    },
+    {
+        "team1": "Pakistan",
+        "team2": "Zimbabwe",
+        "winner": "Pakistan",
+        "margin": "20 runs",
+        "date": "Mar 1, 2015",
+        "number": "ODI # 3620"
+    },
+    {
+        "team1": "Pakistan",
+        "team2": "U.A.E.",
+        "winner": "Pakistan",
+        "margin": "129 runs",
+        "date": "Mar 4, 2015",
+        "number": "ODI # 3622"
+    },
+    {
+        "team1": "Pakistan",
+        "team2": "South Africa",
+        "winner": "Pakistan",
+        "margin": "29 runs",
+        "date": "Mar 7, 2015",
+        "number": "ODI # 3626"
+    },
+    {
+        "team1": "Ireland",
+        "team2": "Pakistan",
+        "winner": "Pakistan",
+        "margin": "7 wickets",
+        "date": "Mar 15, 2015",
+        "number": "ODI # 3639"
+    },
+    {
+        "team1": "Australia",
+        "team2": "Pakistan",
+        "winner": "Australia",
+        "margin": "6 wickets",
+        "date": "Mar 20, 2015",
+        "number": "ODI # 3642"
+    },
+    {
+        "team1": "Bangladesh",
+        "team2": "Pakistan",
+        "winner": "Bangladesh",
+        "margin": "79 runs",
+        "date": "Apr 17, 2015",
+        "number": "ODI # 3647"
+    },
+    {
+        "team1": "Bangladesh",
+        "team2": "Pakistan",
+        "winner": "Bangladesh",
+        "margin": "7 wickets",
+        "date": "Apr 19, 2015",
+        "number": "ODI # 3648"
+    },
+    {
+        "team1": "Bangladesh",
+        "team2": "Pakistan",
+        "winner": "Bangladesh",
+        "margin": "8 wickets",
+        "date": "Apr 22, 2015",
+        "number": "ODI # 3649"
+    },
+    {
+        "team1": "Pakistan",
+        "team2": "Zimbabwe",
+        "winner": "Pakistan",
+        "margin": "41 runs",
+        "date": "May 26, 2015",
+        "number": "ODI # 3651"
+    },
+    {
+        "team1": "Pakistan",
+        "team2": "Zimbabwe",
+        "winner": "Pakistan",
+        "margin": "6 wickets",
+        "date": "May 29, 2015",
+        "number": "ODI # 3652"
+    },
+    {
+        "team1": "Pakistan",
+        "team2": "Zimbabwe",
+        "winner": "no result",
+        "margin": "",
+        "date": "May 31, 2015",
+        "number": "ODI # 3653"
+    },
+    {
+        "team1": "Sri Lanka",
+        "team2": "Pakistan",
+        "winner": "Pakistan",
+        "margin": "6 wickets",
+        "date": "Jul 11, 2015",
+        "number": "ODI # 3664"
+    },
+    {
+        "team1": "Sri Lanka",
+        "team2": "Pakistan",
+        "winner": "Sri Lanka",
+        "margin": "2 wickets",
+        "date": "Jul 15, 2015",
+        "number": "ODI # 3669"
+    },
+    {
+        "team1": "Sri Lanka",
+        "team2": "Pakistan",
+        "winner": "Pakistan",
+        "margin": "135 runs",
+        "date": "Jul 19, 2015",
+        "number": "ODI # 3670"
+    },
+    {
+        "team1": "Sri Lanka",
+        "team2": "Pakistan",
+        "winner": "Pakistan",
+        "margin": "7 wickets",
+        "date": "Jul 22, 2015",
+        "number": "ODI # 3671"
+    },
+    {
+        "team1": "Sri Lanka",
+        "team2": "Pakistan",
+        "winner": "Sri Lanka",
+        "margin": "165 runs",
+        "date": "Jul 26, 2015",
+        "number": "ODI # 3672"
+    },
+    {
+        "team1": "Zimbabwe",
+        "team2": "Pakistan",
+        "winner": "Pakistan",
+        "margin": "131 runs",
+        "date": "Oct 1, 2015",
+        "number": "ODI # 3685"
+    },
+    {
+        "team1": "Zimbabwe",
+        "team2": "Pakistan",
+        "winner": "Zimbabwe",
+        "margin": "5 runs",
+        "date": "Oct 3, 2015",
+        "number": "ODI # 3686"
+    },
+    {
+        "team1": "Zimbabwe",
+        "team2": "Pakistan",
+        "winner": "Pakistan",
+        "margin": "7 wickets",
+        "date": "Oct 5, 2015",
+        "number": "ODI # 3687"
+    },
+    {
+        "team1": "England",
+        "team2": "Pakistan",
+        "winner": "Pakistan",
+        "margin": "6 wickets",
+        "date": "Nov 11, 2015",
+        "number": "ODI # 3707"
+    },
+    {
+        "team1": "England",
+        "team2": "Pakistan",
+        "winner": "England",
+        "margin": "95 runs",
+        "date": "Nov 13, 2015",
+        "number": "ODI # 3708"
+    },
+    {
+        "team1": "England",
+        "team2": "Pakistan",
+        "winner": "England",
+        "margin": "6 wickets",
+        "date": "Nov 17, 2015",
+        "number": "ODI # 3710"
+    },
+    {
+        "team1": "England",
+        "team2": "Pakistan",
+        "winner": "England",
+        "margin": "84 runs",
+        "date": "Nov 20, 2015",
+        "number": "ODI # 3712"
+    }
+
+    {
+        "team1": "Canada",
+        "team2": "Pakistan",
+        "winner": "Pakistan",
+        "margin": "8 wickets",
+        "date": "Jun 9, 1979",
+        "number": "ODI # 64"
+    },
+    {
+        "team1": "Australia",
+        "team2": "Pakistan",
+        "winner": "Pakistan",
+        "margin": "89 runs",
+        "date": "Jun 13-14, 1979",
+        "number": "ODI # 66"
+    },
+    {
+        "team1": "England",
+        "team2": "Pakistan",
+        "winner": "England",
+        "margin": "14 runs",
+        "date": "Jun 16, 1979",
+        "number": "ODI # 71"
+    },
+    {
+        "team1": "Pakistan",
+        "team2": "West Indies",
+        "winner": "West Indies",
+        "margin": "43 runs",
+        "date": "Jun 20, 1979",
+        "number": "ODI # 73"
+    }
+
+    {
+        "team1": "West Indies",
+        "team2": "Pakistan",
+        "winner": "West Indies",
+        "margin": "4 wickets",
+        "date": "Mar 16, 1977",
+        "number": "ODI # 41"
+    },
+    {
+        "team1": "Pakistan",
+        "team2": "England",
+        "winner": "England",
+        "margin": "3 wickets",
+        "date": "Dec 23, 1977",
+        "number": "ODI # 45"
+    },
+    {
+        "team1": "Pakistan",
+        "team2": "England",
+        "winner": "England",
+        "margin": "6 wickets",
+        "date": "Dec 30, 1977",
+        "number": "ODI # 46"
+    }

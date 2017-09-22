@@ -2,9 +2,9 @@
 
 var request = require('request');
 var cheerio = require('cheerio');
+var _ = require('lodash');
 var fs = require('fs');
 var summary = require('../models/summary');
-var _ = require('lodash');
 var counter = 1;
 var allMatchesSummary = [];
 

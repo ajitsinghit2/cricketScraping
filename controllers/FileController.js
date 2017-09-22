@@ -4,9 +4,9 @@ var fs = require('fs');
 var path = require('path');
 
 
-exports.writeToFile = function(json, fileName) {
+exports.writeToFile = function (json, fileName) {
 
-    fs.writeFile(fileName + '.json', JSON.stringify(json, null, 4), function (err) {
+    fs.writeFile("output/" + fileName + '.json', JSON.stringify(json, null, 4), function (err) {
         if (!err)
             console.log('File successfully written! - Check your project directory for the ' + fileName + '.json file: ');
         else
@@ -15,8 +15,8 @@ exports.writeToFile = function(json, fileName) {
 }
 
 
-exports.download = function (req, res){
-    console.log(req.params.filename)
-    var file = path.resolve('./') + '/'+req.params.filename;
+exports.download = function (req, res) {
+
+    var file = path.resolve('./output') + '/' + req.params.filename;
     res.download(file);
 }

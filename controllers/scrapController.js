@@ -77,7 +77,7 @@ function scrap(totalPages, outputFilename) {
 
     function callBackMethod(pageNo, err, data) {
 
-        if (data.length > 0) {
+        if (data!=undefined || data.length > 0) {
             console.log(data);
             allMatchesSummary.push(data);
         }

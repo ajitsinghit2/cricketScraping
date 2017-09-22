@@ -72,9 +72,8 @@ function ScrapSummary(pageNo, type, cb) {
     });
 }
 
+function scrap(totalPages, outputFilename) {
 
-exports.scrapODI = function (req, res) {
-    var totalPages = 81;
     var finished = _.after(totalPages, writeToFile);
 
     for (var i = 1; i <= totalPages; i++)
@@ -89,54 +88,23 @@ exports.scrapODI = function (req, res) {
         else
             console.log("Nothing to show for Page: " + pageNo);
 
-        finished(allMatchesSummary, "ODISummary");
+        finished(allMatchesSummary, outputFilename);
     }
+}
 
+exports.scrapODI = function (req, res) {
+    scrap(81, "ODISummary");
     res.send('Output stored in test file!');
 };
 
 exports.scrapTest = function (req, res) {
-    var totalPages = 46;
-    var finished = _.after(totalPages, writeToFile);
-
-    for (var i = 1; i <= totalPages; i++)
-        ScrapSummary(i, 2, callBackMethod);
-
-    function callBackMethod(pageNo, err, data) {
-
-        if (data.length > 0) {
-            console.log(data);
-            allMatchesSummary.push(data);
-        }
-        else
-            console.log("Nothing to show for Page: " + pageNo);
-
-        finished(allMatchesSummary, "TestSummary");
-    }
-
+    scrap(46, "TestSummary");
     res.send('Output stored in test file!');
 };
 
 
 exports.scrapT20 = function (req, res) {
-    var totalPages = 13;
-    var finished = _.after(totalPages, writeToFile);
-
-    for (var i = 1; i <= totalPages; i++)
-        ScrapSummary(i, 3, callBackMethod);
-
-    function callBackMethod(pageNo, err, data) {
-
-        if (data.length > 0) {
-            console.log(data);
-            allMatchesSummary.push(data);
-        }
-        else
-            console.log("Nothing to show for Page: " + pageNo);
-
-        finished(allMatchesSummary, "T20Summary");
-    }
-
+    scrap(13, "T20Summary");
     res.send('Output stored in test file!');
 };
 

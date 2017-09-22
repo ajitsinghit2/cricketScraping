@@ -100,7 +100,6 @@ exports.scrapTest = function (req, res) {
     res.send('Output stored in test file!');
 };
 
-
 exports.scrapT20 = function (req, res) {
     var totalPages = 13;
     scrap(totalPages, "T20Summary");

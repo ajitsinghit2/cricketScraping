@@ -118,7 +118,6 @@ exports.scrapTest = function (req, res) {
 };
 
 
-
 exports.scrapT20 = function (req, res) {
     var totalPages = 13;
     var finished = _.after(totalPages, writeToFile);

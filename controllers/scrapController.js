@@ -7,7 +7,7 @@ var _ = require('lodash');
 var summary = require('../models/summary');
 var counter = 1;
 var allMatchesSummary = [];
-var fileController = require('../controllers/FileController');
+var fileController = require('./fileController');
 
 
 function getURL(type, pageNo) {

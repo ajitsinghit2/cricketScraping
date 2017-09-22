@@ -12,7 +12,7 @@ var path = require('path');
 
 function writeToFile(json, fileName) {
 
-    fs.writeFile(fileName + '.json', JSON.stringify(json, null, 4).replace(/]|[[]/g, ''), function (err) {
+    fs.writeFile(fileName + '.json', JSON.stringify(json, null, 4), function (err) {
         if (!err)
             console.log('File successfully written! - Check your project directory for the ' + fileName + '.json file: ');
         else

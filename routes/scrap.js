@@ -7,7 +7,7 @@ router.get('/ODI', scrapController.scrapODI);
 router.get('/TEST', scrapController.scrapTest);
 router.get('/T20', scrapController.scrapT20);
 
-router.get('/download/:filename',scrapController.download);
+
 
 
 

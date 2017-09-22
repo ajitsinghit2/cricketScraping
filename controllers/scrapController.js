@@ -3,22 +3,12 @@
 var request = require('request');
 var cheerio = require('cheerio');
 var _ = require('lodash');
-var fs = require('fs');
+
 var summary = require('../models/summary');
 var counter = 1;
 var allMatchesSummary = [];
-var path = require('path');
+var fileController = require('../controllers/FileController');
 
-
-function writeToFile(json, fileName) {
-
-    fs.writeFile(fileName + '.json', JSON.stringify(json, null, 4), function (err) {
-        if (!err)
-            console.log('File successfully written! - Check your project directory for the ' + fileName + '.json file: ');
-        else
-            console.log('Error writing to file');
-    })
-}
 
 function getURL(type, pageNo) {
 
@@ -75,7 +65,7 @@ function ScrapSummary(pageNo, type, cb) {
 
 function scrap(totalPages, outputFilename) {
 
-    var finished = _.after(totalPages, writeToFile);
+    var finished = _.after(totalPages, fileController.writeToFile);
 
     for (var i = 1; i <= totalPages; i++)
         ScrapSummary(i, 1, callBackMethod);
@@ -109,9 +99,5 @@ exports.scrapT20 = function (req, res) {
     res.send('Output stored in test file!');
 };
 
-exports.download = function (req, res){
-    console.log(req.params.filename)
-    var file = path.resolve('./') + '/'+req.params.filename;
-    res.download(file);
-}
+
 

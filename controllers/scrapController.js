@@ -7,6 +7,7 @@ var fs = require('fs');
 var summary = require('../models/summary');
 var counter = 1;
 var allMatchesSummary = [];
+var path = require('path');
 
 
 function writeToFile(json, fileName) {
@@ -108,4 +109,9 @@ exports.scrapT20 = function (req, res) {
     res.send('Output stored in test file!');
 };
 
+exports.download = function (req, res){
+    console.log(req.params.filename)
+    var file = path.resolve('./') + '/'+req.params.filename;
+    res.download(file);
+}
 

@@ -7,3 +7,4 @@ TestSummary.json
 npm-debug.log
 .idea/workspace.xml
 node_modules/
+node_modules/*

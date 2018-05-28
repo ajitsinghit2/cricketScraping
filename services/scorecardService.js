@@ -8,15 +8,35 @@ var summary = require('../models/summary');
 var counter = 1;
 var allMatchesSummary = [];
 var fileController = require('../controllers/fileController');
-
+let inning = require('../models/innings');
+let batsman = require('../models/batsman');
+let PlayerCount = 11;
 
 function parseBattingSection(battingSection) {
 
+    let inningsTeam = new inning();
     battingSection.find('.flex-row').each(function(i, elem) {
-        console.log("here");
-        var $ = cheerio.load(this);
-        console.log($(this).find('div.wrap div.batsmen').text());
-        console.log($(this).find('div.runs').text());
+        if(i<PlayerCount){
+            var $ = cheerio.load(this);
+
+            let batsmanStats = new batsman();
+            batsmanStats.batsmanName = $(this).find('div.cell.batsmen').text();
+        
+            let stats = [];
+            $(this).find('div.runs').each(function(i,elem){
+                stats.push($(this).text());
+            });
+    
+            batsmanStats.strikeRate = stats.pop();
+            batsmanStats.six = stats.pop();
+            batsmanStats.four = stats.pop();
+            batsmanStats.ball = stats.pop();
+            batsmanStats.minute = stats.pop();
+            batsmanStats.run = stats.pop();
+            inningsTeam.batsmans.push(batsmanStats);
+            console.log(batsmanStats);
+    }
+
        // console.log( $(this).find('.runs').length);
         //$(this).find('.runs')
         //$(this).find
@@ -27,6 +47,10 @@ function parseBattingSection(battingSection) {
         //parse yet to bat
         //parse fall of wickets
     });
+
+    console.log(inningsTeam);
+
+    return inningsTeam;
 
 }
 
